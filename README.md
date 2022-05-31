@@ -1,6 +1,5 @@
 # Hastane Otomasyonu
 
-
 Java ile geliştirdiğim Hastane Otomasyonu.
 
 [Blog](https://aybikedalbul.me/ "My blog")
@@ -61,4 +60,9 @@ __İçeriden Görüntüler:__
 
 
 
+
+
+
+
+(Proje Yapım Aşamasındadır)
 
