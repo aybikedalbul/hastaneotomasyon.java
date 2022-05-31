@@ -56,6 +56,7 @@ __İçeriden Görüntüler:__
 <Poliklinik Paneli2:
 
 
+
 ![poliklinik2](https://user-images.githubusercontent.com/100150878/171178967-0a60bab1-0feb-41ed-93de-487ceae47093.png)
 
 
