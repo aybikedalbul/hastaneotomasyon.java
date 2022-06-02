@@ -42,17 +42,18 @@ __İçeriden Görüntüler:__
 
 ![SQL](https://user-images.githubusercontent.com/100150878/171177156-3d81ab8f-1441-490d-8d3a-938e752c37ce.png)
 
-<Doktor Girişi, Başhekimi Paneli:
+
+>  Doktor Girişi, Başhekimi Paneli:
 
 ![bashekimpanel](https://user-images.githubusercontent.com/100150878/171177536-8407cbc8-23da-4399-926f-3708bc9fbbf5.png)
 
-<Poliklinik Paneli:
+
+> Poliklinik Paneli:
             
  ![poliklnik](https://user-images.githubusercontent.com/100150878/171178950-cd3be080-9ede-4693-b8b7-e028353ff8ba.png)
 
             
-            
-<Poliklinik Paneli2:
+> Poliklinik Paneli2:
 
 
 
